@@ -7,7 +7,7 @@
 Exploring US Bikeshare Data with Python
 
 ### Description
-Describe what your project is about and what it does
+This project is part of the Udacity Nanodegree project and involves analysis of the US Bikeshare data using Python.
 
 ### Files used
 Include the files used
