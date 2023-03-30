@@ -10,8 +10,14 @@ Exploring US Bikeshare Data with Python
 This project is part of the Udacity Nanodegree project and involves analysis of the US Bikeshare data using Python.
 
 ### Files used
-Include the files used
+These are the .csv files used for the project.
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was completed with the help of:
+www.udacity.com
+www.stackoverflow.com
+www.github.com
 
