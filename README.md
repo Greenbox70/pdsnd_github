@@ -17,6 +17,7 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 In this project, I used data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns.
 
+
 ### Files used
 These are the .csv files used for the project.
 chicago.csv
@@ -30,4 +31,32 @@ www.stackoverflow.com
 www.github.com
 www.motivateco.com
 www.google.com
+
+
+Following questions were answered in the project.
+1 Popular times of travel 
+2 Popular stations and trip
+3 Trip duration
+4 User info
+
+### Files used
+These are the .csv files used for the project. chicago.csv new_york_city.csv washington.csv
+
+ All three of the data files contain the same core six (6) columns:
+
+    Start Time (e.g., 2017-01-01 00:07:57)
+    End Time (e.g., 2017-01-01 00:20:53)
+    Trip Duration (in seconds - e.g., 776)
+    Start Station (e.g., Broadway & Barry Ave)
+    End Station (e.g., Sedgwick St & North Ave)
+    User Type (Subscriber or Customer)
+
+The Chicago and New York City files also have the following two columns:
+
+    Gender
+    Birth Year
+
+### Credits
+This project was completed with the help of: www.udacity.com www.stackoverflow.com www.github.com www.motivateco.com www.google.com
+
 
