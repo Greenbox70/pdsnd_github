@@ -28,4 +28,6 @@ This project was completed with the help of:
 www.udacity.com
 www.stackoverflow.com
 www.github.com
+www.motivateco.com
+www.google.com
 
